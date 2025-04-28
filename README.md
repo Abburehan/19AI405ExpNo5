@@ -95,3 +95,9 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
+
+## Output
+![image](https://github.com/user-attachments/assets/32f953d7-7a91-4b7d-8293-939ae6054a0f)
+
+## Result
+Thus,implementation of Simple Hill Climbing Algorithm and Generating a String by Mutating a Single Character at each iteration is executed successfully.
